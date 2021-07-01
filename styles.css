@@ -1,0 +1,53 @@
+body {
+  background-color: #f8ffa84d;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Jura', sans-serif;
+  background-color:
+}
+
+
+
+.container {
+  background-color: #454545;
+  display:flex;
+  flex-direction: column;
+  margin-top: 180px;
+  margin-bottom: 100px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.3em;
+  text-align: center;
+  width: max-content;
+}
+
+.button {
+  font-family: 'Jura', sans-serif;
+  background-color: #c8e8ee;
+  font-size: 25px;
+  width: 55px;
+  height: 55px;
+  margin: 0px;
+  padding: 0px;
+}
+
+td, tr{
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+#display {
+  background-color: #c3d475;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+  direction: rtl;
+  width: 200px;
+  overflow: hidden;
+  height: 55px;
+  font-size: 30px;
+}
